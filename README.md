@@ -8,6 +8,6 @@
 
 ## 🗂️ Dataset
 
-🔗 [Download from Google Drive]([https://drive.google.com/uc?export=download&id=your_file_id](https://drive.google.com/drive/folders/1T4zcJSrvotoHw67zshY4zEsvXTNeuulE?usp=sharing))
+🔗 [Download from Google Drive](https://drive.google.com/drive/folders/1T4zcJSrvotoHw67zshY4zEsvXTNeuulE?usp=sharing)
 
 
