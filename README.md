@@ -5,13 +5,6 @@
 The **Khmer Fingerspelling Interpreter** is a real‑time hand gesture recognition system that translates **Khmer fingerspelling consonants** into text.  
 This project is developed to help **bridge the communication gap between deaf individuals and non‑signers in Cambodia** using Machine Learning and Deep Learning techniques.
 
-
-## 🎥 Demo Video
-
-<video src="demo.MOV" controls width="800"></video>
-
-***
-
 ## 🎯 Project Objectives
 
 *   Develop a **real-time Khmer fingerspelling recognition system**
