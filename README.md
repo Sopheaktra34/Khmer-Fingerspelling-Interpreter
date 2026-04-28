@@ -7,7 +7,7 @@ This project is developed to help **bridge the communication gap between deaf in
 
 ## 🎥 Demo Video
 
-<video src="demo.mp4" controls width="800"></video>
+demo.mp4
 
 ## 🎯 Project Objectives
 
