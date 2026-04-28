@@ -149,5 +149,3 @@ streamlit run app.py
     *   Numbers
 *   Improve Deep Learning accuracy
 *   Deploy as a mobile or production‑ready web application
-
-Just say the word 👍
