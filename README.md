@@ -134,7 +134,6 @@ You can open the Google Drive link to explore:
 ## ▶️ How to Run the Project
 
 ```bash
-git clone https://github.com/Sopheaktra34/Khmer-Fingerspelling-Interpreter.git
 cd Khmer-Fingerspelling-Interpreter
 pip install -r requirements.txt
 streamlit run app.py
