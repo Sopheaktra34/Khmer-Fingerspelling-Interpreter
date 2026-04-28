@@ -8,7 +8,7 @@ This project is developed to help **bridge the communication gap between deaf in
 
 ## 🎥 Demo Video
 
-<video src="demo/demo.mp4" controls width="800"></video>
+<video src="demo.MOV" controls width="800"></video>
 
 ***
 
